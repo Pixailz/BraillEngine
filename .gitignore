@@ -1,0 +1,5 @@
+# compiled python
+__pycache__
+
+# tmp file
+tmp/*
